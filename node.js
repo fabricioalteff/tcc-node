@@ -8,31 +8,40 @@ var produtos = [{
     ean: "7894900010015",
     preco: 2.5,
     categora: "Refrigerantes",
-	qtd:0
+    qtd: 0,
+    qtdEstoque:20
 }, {
     id: 2,
     nome: "Antarctica lata 350ml",
     ean: "7891991000796",
     preco: 3,
-    categora: "Cervejas"
+    categora: "Cervejas",
+    qtd: 0,
+    qtdEstoque:20
 }, {
     id: 3,
     nome: "Budweiser lata 350ml",
     ean: "7891991010481",
     preco: 3.5,
-    categora: "Cervejas"
+    categora: "Cervejas",
+    qtd: 0,
+    qtdEstoque:20
 }, {
     id: 4,
     nome: "Mucilon arroz 400g",
     ean: "7891000011287",
     preco: 12.99,
-    categora: "Meercearia"
+    categora: "Meercearia",
+    qtd: 0,
+    qtdEstoque:20
 }, {
     id: 5,
     nome: "Colgate maxima proteÃ§Ã£o 90g",
     ean: "7891024134702",
     preco: 1.89,
-    categora: "Higiene pessoal"
+    categora: "Higiene pessoal",
+    qtd: 0,
+    qtdEstoque:20
 }];
 
 var supermercados = [{
