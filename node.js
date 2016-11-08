@@ -6,7 +6,7 @@ var produtos = [{
     id: 1,
     nome: "Coca cola lata 350ml",
     ean: "7894900010015",
-    preco: 2.5,
+    preco: 2.50,
     categora: "Refrigerantes",
     qtd: 0,
     qtdEstoque:20
@@ -14,7 +14,7 @@ var produtos = [{
     id: 2,
     nome: "Antarctica lata 350ml",
     ean: "7891991000796",
-    preco: 3,
+    preco: 3.00,
     categora: "Cervejas",
     qtd: 0,
     qtdEstoque:20
@@ -22,7 +22,7 @@ var produtos = [{
     id: 3,
     nome: "Budweiser lata 350ml",
     ean: "7891991010481",
-    preco: 3.5,
+    preco: 3.50,
     categora: "Cervejas",
     qtd: 0,
     qtdEstoque:20
@@ -36,7 +36,7 @@ var produtos = [{
     qtdEstoque:20
 }, {
     id: 5,
-    nome: "Colgate maxima proteÃ§Ã£o 90g",
+    nome: "Colgate maxima proteção 90g",
     ean: "7891024134702",
     preco: 1.89,
     categora: "Higiene pessoal",
